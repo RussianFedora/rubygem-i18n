@@ -7,7 +7,7 @@
 Summary: New wave Internationalization support for Ruby
 Name: rubygem-%{gemname}
 Version: 0.6.1
-Release: 1%{?dist}
+Release: 2%{?dist}
 Group: Development/Languages
 License: MIT and (GPLv2 or Ruby)
 URL: http://github.com/svenfuchs/i18n
